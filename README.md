@@ -25,7 +25,7 @@ Cum il poti rula si tu?
 4. Intra in browser pe adresa "http://localhost:3000" si foloseste datele de logare ("admin" ; "admin")
 
 Previzualizare Dashboard:
-![Grafana Dashboard](dashboard.png)(dashboard(1).png)
+![Grafana Dashboard](dashboard.png)(dashboard(2).png)
 
 
 
