@@ -21,7 +21,7 @@ Cum il poti rula si tu?
 
 1. Asigura-te ca ai Docker instalat si pornit in sistemul tau
 2. Deschide un terminal nou in acest folder si ruleaza comanda:
-3. ```bash docker compose up -d
+ docker compose up -d
 4. Intra in browser pe adresa "http://localhost:3000" si foloseste datele de logare ("admin" ; "admin")
 
 Previzualizare Dashboard:
